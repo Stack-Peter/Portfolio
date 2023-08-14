@@ -612,6 +612,12 @@ body.light-theme {
   font-size: var(--small-font-size);
 }
 
+.services__modal-info2 {
+  font-size: var(--small-font-size);
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
 .services__modal-close {
   position: absolute;
   top: 1.5rem;
